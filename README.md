@@ -28,6 +28,13 @@ Here's a walkthrough of implemented features:
 ## Notes
 
 Describe any challenges encountered while building the app.
+A challenge was to make the device compatibility and feature management, another significant challenge in app development is ensuring robust security measures. Protecting user data and preventing vulnerabilities from potential cyber threats requires constant vigilance and adherence to best practices in security protocols.
+
+Moreover, the process of optimizing the app's performance across various network conditions can be quite challenging. Users expect apps to be responsive and quick, regardless of their internet connection speed or stability.
+
+Lastly, managing the project timeline and resources effectively is crucial. Delays can occur due to unexpected technical issues, changes in requirements, or even external factors beyond the development team's control.
+
+These challenges often require a balance of technical expertise, strategic planning, and responsive communication to overcome. 
 
 ## License
 
